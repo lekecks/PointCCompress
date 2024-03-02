@@ -1,0 +1,6 @@
+longdress_vox10_1300.ply
+loot_vox10_1200.ply
+queen_0200.ply
+redandblack_vox10_1550.ply
+ricardo_vox10_frame0082.ply
+soldier_vox10_0690.ply
